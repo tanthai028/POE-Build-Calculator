@@ -1,0 +1,47 @@
+Gear
+
+		Wand 1: 10 div
+		Wand 2: 25 div
+		Helmet: 30 div
+		Body: 45 div
+		Gloves: 10 div
+		Boots: 5 div
+		Ring 1: 5 div
+		Ring 2: 1 div
+		Amulet: 50 div
+		Belt: 315 div
+		Flasks: 2 div
+
+Jewels
+
+		2x 3-Passive Voices: 70 div
+		6x Medium Clusters: 120 c
+		Inspired Learning: 6 div
+		x3 Primordial Harmony: 300 c 
+		Anima Stone: 70 c
+		Fortress Covenant: 1 div
+		Forbidden Flame: 4 div
+		Forbidden Flesh: 160 c	
+
+Gems
+
+		Anomalous Vitality: 1 div
+		Anomalous Summon Stone Golem: 90 c
+		Anomalous Summon Chaos Golem: 30 c
+		Anomalous Precision: 5 div
+		Anomalous Assassin's Mark: 115 c
+		Anomalous Animate Guardian: 50 c
+	
+		Divergent Flesh Offering: 55 c
+		Divergent Minion Speed: 100 c
+		Divergent Generosity: 30 c
+		Divergent Dread Banner: 30 c
+
+		Awk. Multistrike Support: 25 div
+		Awk. Brutality Support: 100 c
+		Awk. Minion Dmg. Support: 100 c
+		Awk. Melee Phys. Dmg. Support: 100 c
+
+		21 23 Summon Carrion Golem: 130 c
+		21 20 Raise Zombie: 50 c
+	
